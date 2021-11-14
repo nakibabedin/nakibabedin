@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nakib Abedin and I go to Stuyvesant High School. My goal is to one day become a Software Engineer!
+My name is Nakib Abedin and I go to Stuyvesant High School. My goal is to become a Software Engineer in the future!
 
 Languages I Know: Python, Java (at a basic level), NetLogo, Scheme
 
