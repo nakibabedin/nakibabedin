@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**nakibabedin/nakibabedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nakib Abedin and I go to Stuyvesant High School. My goal is to one day become a Software Engineer!
 
-Here are some ideas to get you started:
+Languages I Know: Python, Java (at a basic level), NetLogo, Scheme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Currently Learning: Java (in school) and Javascript (on my own)
+
+### Ways to contact me
+
+Email: nakib.abedin58@gmail.com 
+
+Other Email: nabedin30@stuy.edu
+
+
+Discord: Abedinho#6494 
+
+
+
