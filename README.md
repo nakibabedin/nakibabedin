@@ -4,7 +4,7 @@ My name is Nakib Abedin and I go to Stuyvesant High School. My goal is to become
 
 Languages I Know: Python, Java (at a basic level), NetLogo, Scheme
 
-I'm Currently Learning: Java (in school) and Javascript (on my own)
+I'm Currently Learning: Java (in school) 
 
 ### Ways to contact me
 
