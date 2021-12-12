@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello There!</h1>
-<h3 align="center">My name is Nakib Abedin and I am an aspiring developer at Stuyvesant High School</h3>
+<h1 align="center">Welcome to my GitHub!</h1>
+<h3 align="center">I live in New York City and hope to become a Software Developer in the future!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakibabedin&label=Profile%20views&color=0e75b6&style=flat" alt="nakibabedin" /> </p>
 
