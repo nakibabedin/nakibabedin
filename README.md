@@ -11,7 +11,7 @@ Email: nakib.abedin58@gmail.com
 <br>
 Other Email: nabedin30@stuy.edu
 <br>
-Discord: Abedinho#649
+Discord: Abedinho#6494
 
 
 
