@@ -1,15 +1,17 @@
 
-<h1 align="center">Welcome to my GitHub!</h1>
+<h1 align="center"> Welcome to my Github! 👋</h1>
 <h3 align="center">I'm a proud New Yorker and a passionate programmer</h3>
 
-### I've done internships/fellowships with
+### My previous experiences include ...
 - Jane Street (Software Engineering Fellow JSIP '24)
 - Mount Sinai (Software Engineering Intern)
 - STEMKasa (Software Development Intern)
-- Google (Google x Basta G-SWEP Fellowship)
+
+### My awards and honors include ...
+- Google (Google x Basta G-SWEP Fellow)
 - Bloomberg (Tech lab Fellow)
 
-### Languages and Tools
+### My favorite programming languages are ...
 - Python
 - C++
 - OCaml
