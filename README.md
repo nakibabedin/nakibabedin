@@ -1,18 +1,22 @@
 
 <h1 align="center">Welcome to my GitHub!</h1>
-<h3 align="center">I live in New York City and hope to become a Software Developer in the future!</h3>
+<h3 align="center">I'm a proud New Yorker and a passionate programmer</h3>
 
+### I've done internships/fellowships with
+- Jane Street (Software Engineering Fellow JSIP '24)
+- Mount Sinai (Software Engineering Intern)
+- STEMKasa (Software Development Intern)
+- Google (Google x Basta G-SWEP Fellowship)
+- Bloomberg (Tech lab Fellow)
 
 ### Languages and Tools
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+- Python
+- C++
+- OCaml
 
-### Ways to Contact Me
+### Feel free to reach out to me! I'm always happy to talk
 
-Email: nakib.abedin58@gmail.com 
+Email: nakibabedin@gmail.com
 <br>
-Other Email: nabedin30@stuy.edu
-<br>
-Discord: Abedinho#6494
-
-
+Other Email: nakib.abedin@macaulay.cuny.edu
 
