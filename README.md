@@ -7,7 +7,7 @@
 - Mount Sinai (Software Engineering Intern)
 - STEMKasa (Software Development Intern)
 
-### My awards and honors include ...
+### I've received awards and honors from ...
 - Google (Google x Basta G-SWEP Fellow)
 - Bloomberg (Tech lab Fellow)
 
